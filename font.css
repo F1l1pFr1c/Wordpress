@@ -1,0 +1,10 @@
+﻿:root {
+    --bs-body-font-family: 'Poppins', sans-serif;
+    --bs-body-font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6, .fancy-font {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    letter-spacing: -1%;
+}
